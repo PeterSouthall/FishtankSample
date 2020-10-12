@@ -1,2 +1,2 @@
 # FishtankSample
- Fishtank sample
+ Sample VS2019 Fishtank Application (.net Core 3.1 / xUnit)
